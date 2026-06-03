@@ -1,23 +1,23 @@
-# Task 02 - Data Cleaning and Exploratory Data Analysis
+# 📌Task 02 - Data Cleaning and Exploratory Data Analysis
 
 ## Objective
-Perform data cleaning and exploratory data analysis on the Titanic dataset.
+Perform data cleaning and exploratory data analysis on the Titanic dataset✨.
 
-## Dataset
+## Dataset📝
 Titanic Test Dataset
 
-## Tools Used
+## Tools Used🔧
 - R
 - RStudio
 
-## Visualizations
+## Visualizations✔
 1. Gender Distribution
 2. Passenger Class Distribution
 3. Age Distribution
 4. Fare Distribution
 5. Age vs Fare Relationship
 
-## Key Findings
+## Key Findings🎉🎉
 - More male passengers than female passengers.
 - Most passengers traveled in Class 3.
 - Most passengers were between 20 and 40 years old.
